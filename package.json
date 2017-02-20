@@ -1,0 +1,21 @@
+{
+  "name": "bower-jquery-easing",
+  "version": "1.3.1",
+  "description": "jQuery Easing Bower Package =================",
+  "main": "js/jquery.easing.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/bower-jquery-easing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtualidentityag/bower-jquery-easing/issues"
+  },
+  "homepage": "https://github.com/virtualidentityag/bower-jquery-easing#readme"
+}
